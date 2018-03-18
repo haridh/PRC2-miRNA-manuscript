@@ -16,5 +16,6 @@ Heatmap for differentially expressed genes between EZH2-/- and WT. Fig. 3A
 
 ```
 EZH2_KO_WT_VP55_intersections.R
+peak_side_analysis.R
 ```
 Heatmap for miRNA repressed genes bound and regulated by EZH2.
