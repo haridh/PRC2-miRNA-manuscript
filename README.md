@@ -27,3 +27,32 @@ Scatter plot fig. 3F.
 box_plot.R
 ```
 Box plot for Fig.4C.
+
+```
+1000_shuffletest.R
+miRNA_analysis_miR_Rshuffle.R
+miRNA_analysis_target_Rshuffle.R
+Interaction_map_final_gene_set_miR.R
+```
+Shuffle analysis. To determine background number of interactions for any 14 miRNA and 116 protein-coding genes. "Interaction_map_final_gene_set_miR.R" makes the plot in fig 4F.
+
+```
+scatter_ggplot_miRNA_analysis.R
+```
+Supplemental fig 1A. Scatter plot for miRNA enrichment in AGO2 iCLIP and input with miRNA labels.
+
+```
+Volcano_plot.R
+```
+Volcano plot for Supplemental fig. 3B.
+
+```
+box_plot_ko_VP_in_set.R
+```
+Supplemental fig 8. 
+
+```
+box_plot_non_feed_for.R
+```
+Supplemental fig 9. 
+
