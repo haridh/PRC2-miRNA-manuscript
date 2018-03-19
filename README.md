@@ -13,6 +13,10 @@ These scripts identify differentially expressed mRNAs using DESeq2.
 DESeq2_EZH2KO_WT_enrich_padj005_norm_counts_logfold_above_below_1_plus1_ratios.R
 ```
 Heatmap for differentially expressed genes between EZH2-/- and WT. Fig. 3A
+```
+density_plot.R
+```
+Density plot fig 3C. Moving window average of ChIP-seq enrichment scores for EZH2 regulated genes.
 
 ```
 EZH2_KO_WT_VP55_intersections.R
@@ -47,6 +51,11 @@ Volcano_plot.R
 Volcano plot for Supplemental fig. 3B.
 
 ```
+Avg_plot_conf_intervals.R
+```
+ChIP-seq average plots for Supplemental fig. 6B
+
+```
 box_plot_ko_VP_in_set.R
 ```
 Supplemental fig 8. 
@@ -56,3 +65,8 @@ box_plot_non_feed_for.R
 ```
 Supplemental fig 9. 
 
+```
+box_plot_20_80_comp.R
+Avg_plot_20_80_chip.R
+```
+Box plot and avg plot in Supplemental fig 11.
